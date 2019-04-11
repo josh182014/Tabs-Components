@@ -53,7 +53,6 @@ class TabItem {
     // Assign this.element to the passed in element
     // this.element;
     this.element = itemElement;
-    console.log('HEY ' + this.element)
   }
 
   select() {
