@@ -15,6 +15,7 @@
   color: #ffffff;
   font-size: 20px;
   font-weight: bold;
+  user-select: none;
 }
 .dropdown .dropdown-button:hover {
   background-color: #be2530;
@@ -76,6 +77,7 @@
   background-color: #931d25;
   border-right: 1px solid white;
   color: #ffffff;
+  user-select: none;
   cursor: pointer;
 }
 .tabs .tabs-link:hover {
